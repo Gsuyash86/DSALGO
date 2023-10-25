@@ -1,0 +1,3 @@
+This pattern involves divind the data set into smaller chunks and then repeating the a process with a subset of data. This pattern can decrease the time compexity 
+
+
